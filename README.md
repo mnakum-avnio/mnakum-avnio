@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @milannakum.
+- 👋 Hi, I’m [Milan Nakum](https://www.github.com/milannakum).
 - 👀 I currently work on Salesforce and React.
 - 🌱 I work as a Senior Software Engineer at Avnio.
 - 💞️ I love to play video games & watch sci-fi movies/series in my free time.
